@@ -1,2 +1,3 @@
 # hello-world
-This is awsome project!
+This is awesome project!
+reader short changer 
